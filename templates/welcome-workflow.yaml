@@ -56,7 +56,7 @@ resources:
 - name: welcome
   type: git
   parameters:
-    url: "git@github.com:<your-github-username>/<your-git-repo-name>.git"
+    url: "git@github.com:SvenSerneels/orquestra.git"
     branch: "master"
 
 - name: ztransform
