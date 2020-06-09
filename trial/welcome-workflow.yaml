@@ -11,14 +11,14 @@ resources:
   - name: welcome
     type: git
     parameters:
-    url: "git@github.com:SvenSerneels/orquestra.git"
-    branch: "master"
+      url: "git@github.com:SvenSerneels/orquestra.git"
+      branch: "master"
 
   - name: ztransform
     type: git
     parameters:
-    url: "git@github.com:zapatacomputing/tutorial-0-ztransform.git"
-    branch: "master"
+      url: "git@github.com:zapatacomputing/tutorial-0-ztransform.git"
+      branch: "master"
 
 # Data to help you easily work with your workflow
 metadata:
